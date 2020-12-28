@@ -1,0 +1,52 @@
+
+
+.container{
+    width: 400px;
+    height: 500px;
+    border-radius: 10px;
+    background: #ad5389; 
+    background: -webkit-linear-gradient(to right, #3c1053, #ad5389);
+    background: linear-gradient(to right, #3c1053, #ad5389);
+    margin: 20px auto;
+}
+h1{
+    color: #fff;
+    text-align: center;
+    padding-top: 20px;
+}
+.quote-container{
+    width: 200px;
+    height: 200px;
+    margin: auto;
+    background-color: #fe7bbf;
+   
+}
+h4{
+    padding: 2rem;
+    font-size: 1.5rem;
+    font-weight: bolder;
+}
+.quote-author{
+    width: 200px;
+    color: #fff;
+    background-color: #504099;
+    margin: 0 auto;
+}
+.author{
+    padding: 10px;
+    font-weight: bolder;
+    text-align: center;
+}
+.btn{
+    width: 100px;
+    margin:  0 auto;
+}
+.next-btn{
+    width: 100px;
+    padding: 10px;
+    font-weight: bolder;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    background-color: #fe7bbf;
+}
